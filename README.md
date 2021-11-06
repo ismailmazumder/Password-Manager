@@ -1,8 +1,20 @@
-# Password-Manager
+<p style="font-size:40px;text-align:center">Password Manegar</p>
 
-If you have any suggestion contact with me by help command.
+<br>
 
+# How can you run the program?
+<ol>
+<li>Run It
+<li>Follow the terminal command.
+</ol>
 
-If you don't know hwo to use it read it attentively. After running it you can see all kinds of command and their use. (By printing)
+<b>After running you will understand.</b>
 
--------------------------------------------------------------------Thank You----------------------------------------------------------------------------------------
+<br>
+
+```txt
+It is a project for new Python developer. You can try it. 
+``` 
+
+<h3 style="text-aligh:"></h3>
+
